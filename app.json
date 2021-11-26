@@ -1,0 +1,8 @@
+{
+  "name": "sha-microservice-1-transaction",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
